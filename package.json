@@ -1,0 +1,15 @@
+{
+  "name": "papatap-monome",
+  "version": "0.0.1",
+  "description": "Monome owner? and love [patatap](http://patatap.com) by [@jonobr1](http://jonobr1.com) and [lullatone](http://lullatone.com)?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hiroaki Yamane",
+  "license": "MIT",
+  "dependencies": {
+    "monode": "~2.2.3",
+    "socket.io": "~1.0.6"
+  }
+}
