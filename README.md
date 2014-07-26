@@ -5,7 +5,10 @@ Monome owner? and love [patatap](http://patatap.com) by [@jonobr1](http://jonobr
 
 ![](http://c.mnmly.com/WlwC/monome-patatap-vine.gif)
 
-👉 [vine](https://vine.co/v/M0HeHZA7Yp0)
+
+- [vine](https://vine.co/v/M0HeHZA7Yp0)
+- [another vine](https://vine.co/v/M0HDqvHZV0O)
+ 
 
 ### Installation
 
