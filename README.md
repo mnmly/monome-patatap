@@ -1,4 +1,4 @@
-# Monome ✖︎ patatap
+# Monome ✖ patatap
 
 Monome owner? and love [patatap](http://patatap.com) by [@jonobr1](http://jonobr1.com) and [lullatone](http://lullatone.com)?
 
