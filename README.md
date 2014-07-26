@@ -34,3 +34,7 @@ Monome owner? and love [patatap](http://patatap.com) by [@jonobr1](http://jonobr
 - Since it's using `WebSocket` you can do multiple screen too.
 
 ![](http://f.cl.ly/items/1g0M2W3c2C19452l1v0z/monome-patatap.gif)
+
+
+### Credits
+Huge thanks to [@jonobr1](http://jonobr1.com) and [lullatone](http://lullatone.com) for this awesome piece of work!
